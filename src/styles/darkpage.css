@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+    font-family: 'Roboto', sans-serif;
+    --blue: #1E90FFFF;
+    --white-text: #E6E6E6FF;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*SIDEBAR*/
+
+.sidebar {
+    display: flex;
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    background: var(--blue);
+    height: 100%;
+    width: 300px;
+    transition: 0.5s;
+    overflow: hidden;
+    user-select: none;
+}
+
+.sidebar.active {
+    width: 70px;
+}
+
+.sidebar > ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.sidebar > ul > li {
+    position: relative;
+    width: 100%;
+    list-style: none;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+
+}
+
+.sidebar > ul > li:hover {
+    background: white;
+}
+
+.sidebar > ul > li:nth-child(1) {
+    margin-bottom: 40px;
+    pointer-events: none;
+    font-weight: 500;
+
+}
+
+.sidebar > ul > li > a {
+    position: relative;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+
+.sidebar > ul > li:hover > a {
+    color: var(--blue);
+}
+
+.sidebar > ul > li a .logo{
+    position: relative;
+    display: block;
+    min-width: 60px;
+    height: 60px;
+    line-height: 70px;
+    text-align: center;
+    font-size: 1.75rem;
+}
+
+.sidebar > ul > li a .name {
+    position: relative;
+    display: block;
+    padding: 0 10px;
+    height: 60px;
+    line-height: 60px;
+    text-align: start;
+    white-space: nowrap;
+    font-size: 1.75rem;
+}
+
+.sidebar > ul > li:hover > a::before {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: -50px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 35px 35px 0 10px white;
+    background: transparent;
+    pointer-events: none;
+}
+
+.sidebar > ul > li:hover > a::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: -50px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 35px -35px 0 10px white;
+    background: transparent;
+    pointer-events: none;
+}
+
+.camel {
+    position: absolute;
+    max-width: 150px;
+    max-height: 150px;
+    bottom: 0;
+    filter: invert(100%);
+    left: 50%;
+    margin-right: -50%;
+    transform: translateX(-50%);
+}
+
+.camel.active {
+    max-width: 65px;
+    max-height: 65px;
+    transition: 0.5s;
+}
