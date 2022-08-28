@@ -3,69 +3,48 @@ function newsParser (){
     const fs = require ('fs');
     const buff = [];
 
-    function firstUnwrapFunc ( html ){
-        // эта функция анврапает table
-        const REGEXP = /<table class="blog_fp" cellpadding="0" cellspacing="0">(.*?)<\/table>/gms;
-        return [...html.matchAll( REGEXP)];
+    function UnwrapFunc ( html ){
+
+        const REGEXP = /<h2 class="contentheading_fp">.*?<a href="(?<pageHref>.*?)" class="contentpagetitle_fp">(?<title>.*?)<\/a>.*?<\/h2>.*?<div class="content-desc">.*?<img.*?src="(?<imgHref>.*?)".*?<div class="createdate"(?<createDate>.*?)<\/div>/gms
+
+        for (match of [...html.matchAll( REGEXP )]){
+            const pageHref = match.groups.pageHref;
+            const title = match.groups.title;
+            const imgHref = match.groups.imgHref;
+            const createDate = match.groups.createDate;
+
+            buff.push({
+                pageHref: pageHref,
+                title: title.replaceAll( /\\\S/gms, '' ).trim(),
+                imgHref: imgHref,
+                createDate: createDate.replaceAll('>', '').trim()
+            })
+        }
+
+        return buff;
     }
 
-    function secondUnwrapFunc ( html ){
-        // эта функция удаляет комментарии
-        const REGEXP = /<!--(.*?)-->/gms;
-        return html.replaceAll( /<!--(.*?)-->/gms , '').trim();
+
+    function check ( unwrap ){
+        const news = fs.readFileSync('../jsonFiles/news.json');
+        const dataIn = fs.readFileSync('../jsonFiles/data-in.json');
+
+        if (news === dataIn){
+            return true;
+        } else {
+
+        }
 
     }
 
-    function thirdUnwrapFunc ( html ){
-
-        const REGEXP = /<h2 class="contentheading_fp">.*?<a href="(?<pageHref>.*?)" class="contentpagetitle_fp">(?<title>.*?)<\/a>.*?<\/h2>.*?<div class="content-desc">.*?<img.*?src="(?<imgHref>.*?)"/gms;
-
-    }
-
-    // function unwrapdiv (html) {
-    //     const REGEX = /<div class="contentpaneopen_fp clearfix">(.*?)<div class="createdate">(.*?)<\/div><\/div>/gms;
-    //     return [...html.matchAll( REGEX )];
-    // }
-    //
-    // function unwrapPreview( html ){
-    //     const REGEX = /<a href="(?<link>.*?)" class="contentpagetitle_fp">(?<title>.*?)<\/a>/gms;
-    //     const arr = [];
-    //
-    //     for (let match of [...html.matchAll( REGEX )]) {
-    //
-    //         const link = match.groups.link;
-    //         const title = match.groups.title;
-    //
-    //         arr.push({
-    //             link: link.replaceAll( /class..*/gms, '').trim(),
-    //             title: title.replaceAll( /\\\S/gms, '' ).trim()
-    //         })
-    //     }
-    //     return arr;
-    // }
 
     (async () => {
         const request = await fetch('https://ks.psuti.ru/');
         const page = await request.text();
-        const firstUnwrap = firstUnwrapFunc( page )[0][0];
-        const secondUnwrap = secondUnwrapFunc( firstUnwrap );
-        // const secondUnwrap = unwrapPreview( firstUnwrap );
-        // console.log(JSON.stringify(secondUnwrap));
-        fs.writeFileSync('../jsonFiles/secondUnwrap.txt', secondUnwrap.toString());
+        const unwrap = UnwrapFunc( page );
+        check( unwrap );
+        // fs.writeFileSync('../jsonFiles/news.json', JSON.stringify(unwrap, null, '\t'));
     })();
-
-    /*
-
-        <div class="contentpaneopen_fp clearfix">
-
-        <div class="article-content">
-
-        <h2 class="contentheading_fp">
-
-        <a href="/about/ks-news/2479-2022-08-01-06-07-40.html" class="contentpagetitle_fp">
-  		ФСБ России по Республике Карелия   	</a>
-
-    */
 
 }
 
