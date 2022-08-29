@@ -1,0 +1,384 @@
+<html>
+<title>Расписание преподавателей</title>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<link rel='StyleSheet' type='text/css' href='lib/css/wv.css' />
+</head>
+<body  bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#ABB8DA" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="3481A6"><tr><td height='30' align='right' bgcolor="ffffff" colspan='2' background='lib/img/itf_ht/mn_top_bg.gif'><table border="0" cellpadding="0" cellspacing="0"><tr><a href='?mnt=2'><td  background='lib/img/itf_ht/mn_top_bg_btn.gif' align='right' bgcolor="ffffff"><img src='lib/img/itf_ht/mn_top_btn_r.gif'><td  background='lib/img/itf_ht/mn_top_bg_btn.gif' align='right' bgcolor="ffffff"><a href='?mn=2' class='t_on'>Расписание занятий</a></td><td  background='lib/img/itf_ht/mn_top_bg_btn.gif' align='right' bgcolor="ffffff"><img src='lib/img/itf_ht/mn_top_btn_l.gif'></a><a href='?mnt=3'><td  background='lib/img/itf_ht/mn_top_bg.gif' align='right' bgcolor="ffffff" colspan='1'><a href='?mn=3' class='t_on'>&nbsp;Расписание преподавателей&nbsp;</a></td></a><a href='?mnt=4'><td  background='lib/img/itf_ht/mn_top_bg_btn.gif' align='right' bgcolor="ffffff"><img src='lib/img/itf_ht/mn_top_btn_r.gif'><td  background='lib/img/itf_ht/mn_top_bg_btn.gif' align='right' bgcolor="ffffff"><a href='?mn=4' class='t_on'></a><a href='https://lk.ks.psuti.ru/std'>Личный кабинет студента</a></td><td  background='lib/img/itf_ht/mn_top_bg_btn.gif' align='right' bgcolor="ffffff"><img src='lib/img/itf_ht/mn_top_btn_l.gif'></a></tr></table></td></tr></table><br><br><tr><td height='2' bgcolor='3481A6' colspan='4'>				
+				<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="ffffff">
+<tr><td  bgcolor='3481A6' align='center' colspan='2' background='lib/img/itf_ht/bg_h2_03.gif'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td width='1' valign=bottom background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=138'><img src='lib/img/itf_ht/frw_l.gif'></a></td><td height='20' bgcolor='3481A6' align='center'  background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=138'><h3>предыдущая неделя</h3></a></td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'>&nbsp;&nbsp;&nbsp;&nbsp;</td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'><img src='lib/img/itf_ht/rbl04.gif'></td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'>&nbsp;&nbsp;&nbsp;&nbsp;</td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'><img src='lib/img/itf_ht/rbl04.gif'></td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'>&nbsp;&nbsp;&nbsp;&nbsp;</td><td height='20' bgcolor='3481A6' align='center' background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=140'><h3>следующая неделя</h3></a></td><td width='1' valign=bottom background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=140'><img src='lib/img/itf_ht/frw_r.gif'></a></td></tr></table></td></tr>
+</table><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="ffffff">
+<tr><td  height='10'  bgcolor='ffffff' colspan='2' align='center'>с 29.08.2022 по 04.09.2022
+</td></tr>
+<tr><td  width='50%' align='center' valign='top'><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="3481A6">
+<tr><td  bgcolor='C0D8E3' colspan='4'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td bgcolor="3481A6"><a name='20220829' class='t_wth'><b>Понедельник</b> 29.08.2022/0 неделя</a></td><td bgcolor='C0D8E3' ><img src='lib/img/itf_ht/days_bg.gif'></td></tr></table></td></tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>1<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>08:00 – 09:30				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>2<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>09:40 – 11:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>3<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>11:40 – 13:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>4<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>13:20 – 14:50				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>5<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>15:10 – 16:40				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>6<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>16:50 – 18:20				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>7<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>18:30 – 20:00				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+</table></td>
+<td width='50%' align='center' valign='top'><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="3481A6">
+<tr><td  bgcolor='C0D8E3' colspan='4'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td bgcolor="3481A6"><a name='20220830' class='t_wth'><b>Вторник</b> 30.08.2022/0 неделя</a></td><td bgcolor='C0D8E3' ><img src='lib/img/itf_ht/days_bg.gif'></td></tr></table></td></tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>1<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>08:00 – 09:30				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>2<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>09:40 – 11:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>3<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>11:40 – 13:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>4<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>13:20 – 14:50				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>5<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>15:10 – 16:40				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>6<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>16:50 – 18:20				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>7<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>18:30 – 20:00				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+</table></td></tr>
+<tr><td  width='50%' align='center' valign='top'><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="3481A6">
+<tr><td  bgcolor='C0D8E3' colspan='4'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td bgcolor="3481A6"><a name='20220831' class='t_wth'><b>Среда</b> 31.08.2022/0 неделя</a></td><td bgcolor='C0D8E3' ><img src='lib/img/itf_ht/days_bg.gif'></td></tr></table></td></tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>1<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>08:00 – 09:30				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>2<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>09:40 – 11:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>3<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>11:40 – 13:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>4<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>13:20 – 14:50				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>5<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>15:10 – 16:40				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>6<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>16:50 – 18:20				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>7<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>18:30 – 20:00				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+</table></td>
+<td width='50%' align='center' valign='top'><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="3481A6">
+<tr><td  bgcolor='C0D8E3' colspan='4'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td bgcolor="3481A6"><a name='20220901' class='t_wth'><b>Четверг</b> 01.09.2022/1 неделя</a></td><td bgcolor='C0D8E3' ><img src='lib/img/itf_ht/days_bg.gif'></td></tr></table></td></tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>1<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>08:00 – 09:30				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>2<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>09:40 – 11:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>3<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>11:40 – 13:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>4<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>13:20 – 14:50				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>5<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>15:10 – 16:40				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>6<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>16:50 – 18:20				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>7<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>18:30 – 20:00				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+</table></td></tr>
+<tr><td  width='50%' align='center' valign='top'><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="3481A6">
+<tr><td  bgcolor='C0D8E3' colspan='4'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td bgcolor="3481A6"><a name='20220902' class='t_wth'><b>Пятница</b> 02.09.2022/1 неделя</a></td><td bgcolor='C0D8E3' ><img src='lib/img/itf_ht/days_bg.gif'></td></tr></table></td></tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>1<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>08:00 – 09:30				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>2<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>09:40 – 11:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>3<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>11:40 – 13:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>4<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>13:20 – 14:50				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>5<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>15:10 – 16:40				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>6<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>16:50 – 18:20				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>7<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>18:30 – 20:00				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+</table></td>
+<td width='50%' align='center' valign='top'><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="3481A6">
+<tr><td  bgcolor='C0D8E3' colspan='4'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td bgcolor="3481A6"><a name='20220903' class='t_wth'><b>Суббота</b> 03.09.2022/1 неделя</a></td><td bgcolor='C0D8E3' ><img src='lib/img/itf_ht/days_bg.gif'></td></tr></table></td></tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>1<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>08:00 – 09:30				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>2<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>09:40 – 11:10				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>3<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>11:30 – 13:00				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>4<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>13:10 – 14:40				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>5<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>14:50 – 16:20				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>6<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>16:30 – 18:00				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+<tr><td height='50' width='7%' bgcolor='ffffff' align='center'><br>7<br><br></td>
+<td height='50' width='20%' bgcolor='ffffff' align='center'>18:10 – 19:40				
+				</td>
+<td  width='62%' bgcolor='ffffff' align='center'></td>
+<td  width='11%' bgcolor='ffffff' align='center'></td>
+</tr>
+</table></td></tr>
+<tr><td  height='10'  bgcolor='ffffff' colspan='2' align='center'>с 29.08.2022 по 04.09.2022
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="ffffff">
+<tr><td  bgcolor='3481A6' align='center' colspan='2' background='lib/img/itf_ht/bg_h2_03.gif'><table border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr><td width='1' valign=bottom background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=138'><img src='lib/img/itf_ht/frw_l.gif'></a></td><td height='20' bgcolor='3481A6' align='center'  background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=138'><h3>предыдущая неделя</h3></a></td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'>&nbsp;&nbsp;&nbsp;&nbsp;</td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'><img src='lib/img/itf_ht/rbl04.gif'></td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'>&nbsp;&nbsp;&nbsp;&nbsp;</td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'><img src='lib/img/itf_ht/rbl04.gif'></td><td width='1' valign=bottom  background='lib/img/itf_ht/bg_h2_03.gif'>&nbsp;&nbsp;&nbsp;&nbsp;</td><td height='20' bgcolor='3481A6' align='center' background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=140'><h3>следующая неделя</h3></a></td><td width='1' valign=bottom background='lib/img/itf_ht/bg_h2_03.gif'><a href='?mn=3&obj=62&wk=140'><img src='lib/img/itf_ht/frw_r.gif'></a></td></tr></table></td></tr>
+</table><br></td></tr>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="ffffff">
+<tr><td height='20' bgcolor='3481A6' align='center'  background='lib/img/itf_ht/bg_h2_03.gif'><h3>Выберите преподавателя:</h3></td></tr>
+<tr><td bgcolor="3481A6" align="center" background='lib/img/itf_ht/hr_b_03.gif'><img src='lib/img/itf_ht/hr_b_03.gif'></td></tr></table><table border="0" cellpadding="1" cellspacing="1" width="100%" bgcolor="ffffff">
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=3'><b>Абалымова Людмила Павловна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=4'><b>Абрамова Светлана Геннадьевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=120'><b>Албатырев Владислав Дмитриевич</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=2'><b>Алёхин Иван Николаевич</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=97'><b>Амукова Светлана Николаевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=135'><b>Андреева Елена Сергеевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=65'><b>Андреевская Наталья Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=5'><b>Андрющенко Анна Вячеславовна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=145'><b>Анисимов Александр Владимирович</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=6'><b>Арефьев Андрей Андреевич</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=128'><b>Ахмедова Кристина Рамонджановна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=139'><b>Батурина Анна Алексеевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=76'><b>Бондаренко Анастасия Вячеславовна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=141'><b>Бузина Алена Валерьевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=117'><b>Владимиров Денис Андреевич</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=13'><b>Гончарова Анастасия Александровна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=144'><b>Гордеев Александр Валентинович</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=136'><b>Горобей Валерий Валериевич</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=16'><b>Горшенина Ольга Николаевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=18'><b>Дмитриева Наталья Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=19'><b>Ермолаева Галина Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=20'><b>Жабборова Светлана Сергеевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=21'><b>Жилина Елена Николаевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=146'><b>Зарыпов Руслан Расихович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=22'><b>Иванова Мария Сергеевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=102'><b>Иванова Регина Геннадьевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=23'><b>Карпеева Александра Сергеевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=24'><b>Карпова Ирина Васильевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=98'><b>Ковтун Дарья Сергеевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=137'><b>Козько Диана Игоревна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=25'><b>Корнилова Светлана Александровна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=17'><b>Краюшкина Ольга Борисовна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=92'><b>Крестелев Анатолий Иванович</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=57'><b>Крынкина Анна Андреевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=27'><b>Кукарская Людмила Петровна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=80'><b>Кусаева Зарина Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=142'><b>Ларионова Софья Николаевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=28'><b>Лизунова Елена Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=29'><b>Лобачёва Милана Евгеньевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=30'><b>Логвинов Александр Владимирович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=34'><b>Михалькова Ирина Евгеньевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=138'><b>Мусаева Сона Алимовна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=35'><b>Назарова Елена Федоровна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=103'><b>Негина Айгуль Зинуловна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=36'><b>Некрылова Татьяна Борисовна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=37'><b>Никифоров Михаил Михайлович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=122'><b>Новикова Дарья Дмитриевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=140'><b>Нужин Владислав Иванович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=39'><b>Першина Елена Викторовна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=64'><b>Потяйкин Роман Владимирович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=72'><b>Резаева Алина Игоревна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=77'><b>Савич Мария Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=40'><b>Самойлова Диана Дмитриевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=94'><b>Семенов Антон Сергеевич</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=95'><b>Семенов Владимир Александрович</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=70'><b>Сергеев Роман Алексеевич</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=41'><b>Сиднина Юлия Валерьевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=42'><b>Синекопова Лариса Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=43'><b>Сироткина Ольга Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=44'><b>Ситникова Людмила Геннадьевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=45'><b>Славкина Татьяна Анатольевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=47'><b>Сорокина Надежда Леонидовна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=86'><b>Старостина Екатерина Михайловна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=100'><b>Степанов Макар Михайлович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=67'><b>Тананыхина Надежда Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=49'><b>Терёхин Дмитрий Вячеславович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=78'><b>Упанова Анастасия Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=51'><b>Утыбаева Светлана Михайловна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=52'><b>Федотова Елена Дмитриевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=127'><b>Филатова Дарья Геннадьевна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=53'><b>Филиппова Наталия Юрьевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=54'><b>Фомин Александр Васильевич</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=106'><b>Ходотова Евгения Андреевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=58'><b>Черненкова Наталья Владимировна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=130'><b>Черская Полина Алексеевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=119'><b>Шамбер Лола Низамовна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=71'><b>Швырина Ольга Николаевна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=116'><b>Шерухаев Олег Викторович</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=125'><b>Шиллер Эмиля Владиславовна</b></a>  </td></tr>
+<tr><td  bgcolor='dddddd' align=center><a href='?mn=3&obj=61'><b>Шомас Елена Александровна</b></a>  </td></tr>
+<tr><td  bgcolor='eeeeee' align=center><a href='?mn=3&obj=62'><b>Шукова Марина Геннадьевна</b></a>  </td></tr>
+</td>
+</tr>
+</table>
+</body>
+</html>
