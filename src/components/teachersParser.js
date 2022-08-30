@@ -12,7 +12,7 @@ function teachersParser (){
             buff.push({
                 name: name,
                 obj: obj,
-                href: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}`,
+                href: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=140`,
                 lessons: '',
                 cabinet: ''
             })
@@ -27,7 +27,7 @@ function teachersParser (){
 
             // fs.writeFileSync(`../jsonFiles/${el.obj}.txt`, page)
 
-            el.cabinets = [];
+            el.cabinet = [];
             el.lessons = [];
 
             function lessonUnwrap (page){
@@ -38,12 +38,12 @@ function teachersParser (){
                     const lessons = match.groups.lessons;
                     const cabinet = match.groups.cabinet;
 
-                    el.cabinets.push(cabinet);
+                    el.cabinet.push(cabinet);
                     el.lessons.push(lessons);
                     // console.log(cabinet);
                 }
 
-                el.cabinets = remove_duplicates( el.cabinets );
+                el.cabinet = remove_duplicates( el.cabinet );
                 el.lessons = remove_duplicates( el.lessons );
             }
 
@@ -63,7 +63,7 @@ function teachersParser (){
 
         const firstUnwrap = await tableUnwrapFunc( page );
         console.log(buff);
-        // fs.writeFileSync('../jsonFiles/fut.txt', page)
+        fs.writeFileSync('../jsonFiles/teachers.json', JSON.stringify(buff, null, '\t'))
     })();
 }
 
