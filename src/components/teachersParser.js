@@ -17,7 +17,7 @@ function teachersParser (){
                 cabinet: ''
             })
         }
-        scheduleUnwrap();
+        await scheduleUnwrap();
     }
 
     async function scheduleUnwrap() {
@@ -27,6 +27,9 @@ function teachersParser (){
 
             // fs.writeFileSync(`../jsonFiles/${el.obj}.txt`, page)
 
+            el.cabinets = [];
+            el.lessons = [];
+
             function lessonUnwrap (page){
                 const REGEXP = /<td  width='62%' bgcolor='ffffff' align='center'><b>(?<lessons>.*?)<\/b>(.*?)<td  width='11%' bgcolor='ffffff' align='center'>(?<cabinet>.*?)<\/td>/gms;
 
@@ -35,13 +38,23 @@ function teachersParser (){
                     const lessons = match.groups.lessons;
                     const cabinet = match.groups.cabinet;
 
-                    el.cabinet = cabinet;
-
+                    el.cabinets.push(cabinet);
+                    el.lessons.push(lessons);
+                    // console.log(cabinet);
                 }
+
+                el.cabinets = remove_duplicates( el.cabinets );
+                el.lessons = remove_duplicates( el.lessons );
             }
 
             lessonUnwrap( page );
         }
+    }
+
+    function remove_duplicates( a ) {
+        let obj = {};
+        a.forEach( e => obj[e] = true );
+        return Object.keys(obj);
     }
 
     (async () => {
@@ -49,7 +62,6 @@ function teachersParser (){
         const page = await request.text();
 
         const firstUnwrap = await tableUnwrapFunc( page );
-        // const secondUnwrap = scheduleUnwrap();
         console.log(buff);
         // fs.writeFileSync('../jsonFiles/fut.txt', page)
     })();
