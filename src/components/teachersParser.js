@@ -12,7 +12,8 @@ function teachersParser (){
             buff.push({
                 name: name,
                 obj: obj,
-                href: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=140`,
+                hrefZero: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=139`,
+                hrefOne: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=140`,
                 lessons: '',
                 cabinet: ''
             })
@@ -22,15 +23,18 @@ function teachersParser (){
 
     async function scheduleUnwrap() {
         for (let el of buff) {
-            const requests = await fetch(el.href);
-            const page = await requests.text();
+            const requestsZero = await fetch(el.hrefZero);
+            const requestsOne = await fetch(el.hrefOne);
+
+            const pageZero = await requestsZero.text();
+            const pageOne = await requestsOne.text();
 
             // fs.writeFileSync(`../jsonFiles/${el.obj}.txt`, page)
 
             el.cabinet = [];
             el.lessons = [];
 
-            function lessonUnwrap (page){
+            function lessonUnwrap ( page ){
                 const REGEXP = /<td  width='62%' bgcolor='ffffff' align='center'><b>(?<lessons>.*?)<\/b>(.*?)<td  width='11%' bgcolor='ffffff' align='center'>(?<cabinet>.*?)<\/td>/gms;
 
                 for (let match of [...page.matchAll( REGEXP )]){
@@ -47,7 +51,8 @@ function teachersParser (){
                 el.lessons = remove_duplicates( el.lessons );
             }
 
-            lessonUnwrap( page );
+            lessonUnwrap( pageZero );
+            lessonUnwrap( pageOne );
         }
     }
 
