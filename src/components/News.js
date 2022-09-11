@@ -2,7 +2,11 @@ import React from 'react';
 
 function News(props) {
     return (
-        <div></div>
+        <div
+            className={'news'}
+         >
+
+        </div>
     );
 }
 
