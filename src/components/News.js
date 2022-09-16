@@ -7,6 +7,7 @@ function News(props) {
     return (
         <div
             className={'news'}
+<<<<<<< HEAD
         >
 
             {news.map( ({id, title, date, link}) => (
@@ -16,6 +17,9 @@ function News(props) {
                     <a href={link}> {link} </a>
                 </element>
             ) )}
+=======
+         >
+>>>>>>> c42665924893bdce830b444fd2f906c58b812365
 
         </div>
     );
