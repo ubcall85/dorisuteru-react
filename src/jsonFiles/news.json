@@ -1,5 +1,11 @@
 [
 	{
+		"pageHref": "/about/ks-news/2480-1--2022-.html",
+		"title": "1 сентября 2022 года",
+		"imgHref": "/images/resized/images/stories/ks-news/2022/sdasdsdwqe_78_78.jpg",
+		"createDate": "Четверг, 01 сен 2022"
+	},
+	{
 		"pageHref": "/about/ks-news/2479-2022-08-01-06-07-40.html",
 		"title": "ФСБ России по Республике Карелия",
 		"imgHref": "/images/resized/images/stories/ks-news/2022/11925_78_78.jpg",
@@ -52,11 +58,5 @@
 		"title": "Интервью с участниками и экспертами чемпионата",
 		"imgHref": "/images/resized/images/stories/ks-news/2022/wsk/title_78_78.jpg",
 		"createDate": "Вторник, 31 мая 2022"
-	},
-	{
-		"pageHref": "/about/ks-news/2463-2022-05-27-07-18-21.html",
-		"title": "Региональный чемпионат по профессиональному мастерству",
-		"imgHref": "/images/resized/images/stories/ks-news/2022/sadxzczx_78_78.jpg",
-		"createDate": "Пятница, 27 мая 2022"
 	}
 ]

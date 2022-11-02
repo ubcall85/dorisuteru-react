@@ -19,7 +19,7 @@ body, html {
     padding: 0;
 }
 
-/*SIDEBAR*/
+/* SIDEBAR */
 
 .sidebar {
     display: flex;
@@ -144,3 +144,5 @@ body, html {
     max-height: 65px;
     transition: 0.5s;
 }
+
+/* NEWS */
