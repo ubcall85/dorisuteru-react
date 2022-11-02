@@ -9,11 +9,13 @@ function teachersParser (){
             const obj = match.groups.obj;
             const name = match.groups.name;
 
+            // console.log(obj);
+
             buff.push({
                 name: name,
                 obj: obj,
-                hrefZero: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=139`,
-                hrefOne: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=140`,
+                hrefZero: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=149`,
+                hrefOne: `https://lk.ks.psuti.ru/?mn=3&obj=${obj}&wk=150`,
                 lessons: '',
                 cabinet: ''
             })
@@ -67,8 +69,8 @@ function teachersParser (){
         const page = await request.text();
 
         const firstUnwrap = await tableUnwrapFunc( page );
-        console.log(buff);
-        fs.writeFileSync('../jsonFiles/teachers.json', JSON.stringify(buff, null, '\t'))
+        // console.log(buff);
+        fs.writeFileSync('../jsonFiles/newTeachers.json', JSON.stringify(buff, null, '\t'))
     })();
 }
 
