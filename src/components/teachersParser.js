@@ -69,7 +69,7 @@ function teachersParser (){
         const page = await request.text();
 
         const firstUnwrap = await tableUnwrapFunc( page );
-        // console.log(buff);
+        console.log(buff);
         fs.writeFileSync('../jsonFiles/newTeachers.json', JSON.stringify(buff, null, '\t'))
     })();
 }
